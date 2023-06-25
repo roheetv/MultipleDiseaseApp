@@ -1,5 +1,5 @@
 # MultipleDiseaseApp
-Deploying Machine Learning Web App on Heroku 
+Deploying Machine Learning Web App
 users can simply input their relevant health data, such as blood sugar levels, heart rate, or movement patterns, 
 and our advanced machine learning algorithms analyze the information to provide accurate disease predictions. 
 By leveraging the power of artificial intelligence, we enable early detection and prompt intervention, ultimately improving patient outcomes and quality of life.
